@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi :). <br>My name's Do Mai Minh Quan.<br>I'm a student at the University of Information Technology, VNU-HCM.<br>My focus is on learning Java and Mobile development.<br>
+Hi :) <br>My name's Do Mai Minh Quan.<br>I'm a student at the University of Information Technology, VNU-HCM.<br>My focus is on learning Java and Mobile development.<br>
 
 
 ## 🌐 Socials:
